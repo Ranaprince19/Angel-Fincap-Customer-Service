@@ -50,6 +50,12 @@ Below is the UML class diagram that illustrates the application's structure and 
 5. Access the application locally at: [http://localhost:8083](http://localhost:8083).
 
 ---
+## CONTRIBUTORS
+
+- [Dev Khurana](https://github.com/devkhurana02)
+- [Manaswi Singh](https://github.com/sonderxd)
+
+----
 
 ## Additional Integrations
 - **tawk.to**: A third-party chat system for real-time user support.
